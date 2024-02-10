@@ -11,10 +11,10 @@ This Webpage was created for ease of reference; as it contains the work that i w
 
 You can clone this repository with the following command in your terminal: 
 
-Git clone https://chelseasarpong.github.io/
+Git clone https://chelseasarpong.github.io/Student-Portfolio/
 
 ## Usage
- This webpage will automatically redeploy to github pages when changes are committed to the main branch of this Repo. Live site [here](https://chelseasarpong.github.io/
+ This webpage will automatically redeploy to github pages when changes are committed to the main branch of this Repo. Live site [[here]](https://chelseasarpong.github.io/Student-Portfolio/)
 
 
 ## Credits
